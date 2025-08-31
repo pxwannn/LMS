@@ -15,7 +15,7 @@ import { Input } from './ui/input'
 import { Menu } from 'lucide-react'
 import { DropdownMenu } from './ui/dropdown-menu'
 import { DropdownMenuTrigger, Separator } from '@radix-ui/react-dropdown-menu'
-import { DarkMode } from './DarkMode'
+import { DarkMode } from '../DarkMode'
 
 const MobileNavbar = () => {
     const role = "instructor"
